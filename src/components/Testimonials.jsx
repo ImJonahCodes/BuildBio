@@ -7,24 +7,24 @@ import testimonial3 from "../assets/images/testimonial3.png";
 
 const testimonialsData = [
   {
-    customerName: "John Watkins",
-    customerTitle: "Founder of Dashflow",
+    customerName: "Jonah",
+    customerTitle: "Car Enthusiast",
     content:
-      "The powerful analytic tools have helped us streamline our processes and make data-driven decisions that positively impact our efficiency. Tailcast has been a game-changer for our business. The platform is easy to use, and the insights we've gained have driven significant improvements.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius quam quisque id diam vel quam. Nibh nisl condimentum id venenatis a condimentum vitae sapien.",
     image: testimonial1,
   },
   {
-    customerName: "John Watkins",
-    customerTitle: "Founder of Dashflow",
+    customerName: "Project Vanity",
+    customerTitle: "Car Group/Brand",
     content:
-      "The powerful analytic tools have helped us streamline our processes and make data-driven decisions that positively impact our efficiency. Tailcast has been a game-changer for our business. The platform is easy to use, and the insights we've gained have driven significant improvements.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius quam quisque id diam vel quam. Nibh nisl condimentum id venenatis a condimentum vitae sapien.",
     image: testimonial2,
   },
   {
-    customerName: "John Watkins",
-    customerTitle: "Founder of Dashflow",
+    customerName: "412CarCult",
+    customerTitle: "Car Group",
     content:
-      "The powerful analytic tools have helped us streamline our processes and make data-driven decisions that positively impact our efficiency. Tailcast has been a game-changer for our business. The platform is easy to use, and the insights we've gained have driven significant improvements.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius quam quisque id diam vel quam. Nibh nisl condimentum id venenatis a condimentum vitae sapien.",
     image: testimonial3,
   },
 ];
@@ -43,7 +43,7 @@ export const Testimonials = () => (
           Testimonials
         </div>
         <div className="custom-block-big-title text-center mb-16 px-8 sm:px-24 md:px-48">
-          People like you love Tailcast
+          People like you love BuildBio
         </div>
 
         <div className="flex flex-col lg:flex-row gap-8 lg:gap-5 xl:gap-10 px-6 xl:px-0 items-center">

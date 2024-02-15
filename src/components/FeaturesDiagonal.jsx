@@ -32,15 +32,13 @@ export const FeaturesDiagonal = () => {
         <div className=" 2xl:w-[1150px] xl:w-[1050px]  md:w-4/5 flex justify-center bg-customDarkBg1 pt-12 lg:pt-24 pb-8 lg:pb-20 mx-auto lg:flex-row flex-col">
           <div className="w-3/4 lg:w-1/2 flex flex-col lg:mx-unset mx-auto">
             <span className="custom-block-subtitle">
-              Accelerate Your Success
+              CHANGING THE CAR COMMUNITY
             </span>
             <h2 className="mt-10 mb-8 text-4xl lg:text-5xl custom-block-big-title">
-              Build &amp; Launch without problems
+              Join the best car community of 2024
             </h2>
             <p className="mb-16 text-customGrayText leading-loose">
-              Our platform enables you to launch your data-driven projects with
-              ease. Boost productivity and achieve better results. Empower your
-              decision-making with advanced analytics
+              Our platform was built to have the car community come together and create a platform that is safe and fun for everyone. The car community is not the same as it used to be. There is too much drama and hate and we want to change that!
             </p>
             <div
               className="w-[210px] h-12 custom-button-colored mr-10 "
